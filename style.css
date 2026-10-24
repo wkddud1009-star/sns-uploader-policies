@@ -1,0 +1,8 @@
+:root { color-scheme: light; font-family: system-ui, "Malgun Gothic", sans-serif; color: #172033; background: #f6f8fb; }
+body { margin: 0; line-height: 1.7; }
+main { box-sizing: border-box; max-width: 820px; margin: 48px auto; padding: 36px 42px; background: white; border: 1px solid #e2e7ef; border-radius: 14px; box-shadow: 0 8px 28px #15223a0d; }
+h1 { line-height: 1.25; }
+h2 { margin-top: 30px; font-size: 1.15rem; }
+nav { margin: 12px 0 22px; }
+a { color: #155eef; margin-right: 12px; }
+@media (max-width: 600px) { main { margin: 16px; padding: 24px; } }
